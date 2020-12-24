@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #d4e2d4;
+}
+input{
+	margin : 10px;
+}
+form{
+	text-align : center;
+}
+hr{
+	border-style : dotted;
+	border-width : 10px 0px 0px 0px;
+	width: 40%;
+	color: #654062;
+}
+p{
+	text-align: center;
+}

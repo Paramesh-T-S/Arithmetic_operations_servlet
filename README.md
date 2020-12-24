@@ -10,3 +10,11 @@
   
   1. IDE to run Java EE programs
   2. Any servers to host your files (Here I used Apache Tomcat v9.0)
+
+### Screenshots
+
+### Providing input to the wepage
+![](Screenshots/ss1.jpg)
+
+### Providing output on the webpage
+![](Screenshots/ss2.jpg)

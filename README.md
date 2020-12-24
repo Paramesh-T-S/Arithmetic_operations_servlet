@@ -16,5 +16,5 @@
 ### Providing input to the wepage
 ![](Screenshots/ss1.jpg)
 
-### Providing output on the webpage
+### Getting output on the webpage
 ![](Screenshots/ss2.jpg)
